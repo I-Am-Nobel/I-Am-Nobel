@@ -1,5 +1,5 @@
 - 👋 Salut, Je suis Josué Nobel Musonga
-- 👀 Je m'interesse à la programation web,des micro-Controlleurs et aux algorithmes d'intelligence artificiel.  ...
+- 👀 Je m'interesse à la programation web,des micro-Controlleurs et aux algorithmes d'intelligence artificiel.
 - 🌱 J'etudie actuellement le deep Leanning
 - 💞️ Je suis ouvert à des collaborations.
 
