@@ -3,8 +3,8 @@
 # **Josué Nobel Musonga**  
 📍 **Butembo, RDC**  
 📞 **+243 851 780 126**  
-✉️ **musonga.nobel@gmail.com**  
-🌐 **[Portfolio](https://i-am-nobel.github.io/Cv)** | **[GitHub](www.github.com/i-am-nobel)**  
+✉️ **jonobelmusonga@gmail.com**  
+🌐 **[Portfolio](https://i-am-nobel.github.io/Cv)** | **[GitHub](https://github.com/I-Am-Nobel)**  
 
 ---
 
