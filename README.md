@@ -4,7 +4,7 @@
 📍 **Butembo, RDC**  
 📞 **+243 851 780 126**  
 ✉️ **jonobelmusonga@gmail.com**  
-🌐 **[Portfolio](https://i-am-nobel.github.io/Cv)** | **[GitHub](https://github.com/I-Am-Nobel)**  
+🌐 **[Portfolio](https://jonobel.vercel.app)** | **[GitHub](https://github.com/I-Am-Nobel)**  
 
 ---
 
